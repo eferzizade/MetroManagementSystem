@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|metrosistemi.csproj|C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|metrosistemi.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\forms\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:forms\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|c:\\users\\user\\desktop\\c#\\metromanagementsystem_c#\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|c:\\users\\user\\desktop\\c#\\metromanagementsystem_c#\\models\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:models\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|c:\\users\\user\\desktop\\c#\\metromanagementsystem_c#\\models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|c:\\users\\user\\desktop\\c#\\metromanagementsystem_c#\\models\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:models\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|c:\\users\\user\\desktop\\c#\\metromanagementsystem_c#\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|c:\\users\\user\\desktop\\c#\\metromanagementsystem_c#\\services\\stationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:services\\stationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\forms\\stationmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:forms\\stationmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|metrosistemi.csproj|C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\forms\\stationmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|metrosistemi.csproj|solutionrelative:forms\\stationmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\forms\\ticketingforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:forms\\ticketingforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|metrosistemi.csproj|C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\forms\\ticketingforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|metrosistemi.csproj|solutionrelative:forms\\ticketingforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|c:\\users\\user\\desktop\\c#\\metromanagementsystem_c#\\metromanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:metromanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|c:\\users\\user\\desktop\\c#\\metromanagementsystem_c#\\forms\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:forms\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\forms\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:forms\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|metrosistemi.csproj|C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\forms\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|metrosistemi.csproj|solutionrelative:forms\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|c:\\users\\user\\desktop\\c#\\metromanagementsystem_c#\\forms\\stationmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:forms\\stationmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|c:\\users\\user\\desktop\\c#\\metromanagementsystem_c#\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|c:\\users\\user\\desktop\\c#\\metromanagementsystem_c#\\data\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:data\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|c:\\users\\user\\desktop\\c#\\metromanagementsystem_c#\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|c:\\users\\user\\desktop\\c#\\metromanagementsystem_c#\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|c:\\users\\user\\desktop\\c#\\metromanagementsystem_c#\\data_storage.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:data_storage.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\forms\\employeeforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:forms\\employeeforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|c:\\users\\user\\desktop\\c#\\metromanagementsystem_c#\\forms\\employeeforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|MetroManagement.csproj|solutionrelative:forms\\employeeforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|metrosistemi.csproj|C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\forms\\employeeforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|metrosistemi.csproj|solutionrelative:forms\\employeeforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|metrosistemi.csproj|C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|metrosistemi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|metrosistemi.csproj|C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\forms\\routeforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C8CE9D4-69F6-49E5-BB43-DAA1D9DEF50A}|metrosistemi.csproj|solutionrelative:forms\\routeforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmployeeForms.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\EmployeeForms.cs",
+              "RelativeDocumentMoniker": "Forms\\EmployeeForms.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\EmployeeForms.cs",
+              "RelativeToolTip": "Forms\\EmployeeForms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:31:53.987Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\MainDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\MainDashboard.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\MainDashboard.cs [Design]",
+              "RelativeToolTip": "Forms\\MainDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:33:51.664Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem-main\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\MetromanagementSystem-main\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:33:48.237Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:20:12.391Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TicketingForms.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\TicketingForms.cs",
+              "RelativeDocumentMoniker": "Forms\\TicketingForms.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\MetroManagementSystem-main\\MetroManagementSystem-main\\MetromanagementSystem-main\\Forms\\TicketingForms.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\MetroManagementSystem-main\\MetroManagementSystem-main\\MetromanagementSystem-main\\Forms\\TicketingForms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:20:10.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StatisticsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\StatisticsForm.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\MetroManagementSystem-main\\MetroManagementSystem-main\\MetromanagementSystem-main\\Forms\\StatisticsForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\MetroManagementSystem-main\\MetroManagementSystem-main\\MetromanagementSystem-main\\Forms\\StatisticsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:16:35.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StationManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\StationManagementForm.cs",
+              "RelativeDocumentMoniker": "Forms\\StationManagementForm.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\MetroManagementSystem-main\\MetroManagementSystem-main\\MetromanagementSystem-main\\Forms\\StationManagementForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\MetroManagementSystem-main\\MetroManagementSystem-main\\MetromanagementSystem-main\\Forms\\StationManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:50:09.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MetroManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\MetroManagement.csproj",
+              "RelativeDocumentMoniker": "MetroManagement.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\MetroManagement.csproj",
+              "RelativeToolTip": "MetroManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T13:30:31.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\MainDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\MainDashboard.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\MainDashboard.cs",
+              "RelativeToolTip": "Forms\\MainDashboard.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAqwJMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:01:31.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StationManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\StationManagementForm.cs",
+              "RelativeDocumentMoniker": "Forms\\StationManagementForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem-main\\Forms\\StationManagementForm.cs [Design]",
+              "RelativeToolTip": "..\\MetromanagementSystem-main\\Forms\\StationManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:34:01.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StatisticsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\StatisticsForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem-main\\Forms\\StatisticsForm.cs [Design]",
+              "RelativeToolTip": "..\\MetromanagementSystem-main\\Forms\\StatisticsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:34:10.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StationManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\StationManagementForm.cs",
+              "RelativeDocumentMoniker": "Forms\\StationManagementForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\StationManagementForm.cs",
+              "RelativeToolTip": "Forms\\StationManagementForm.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:44:39.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TicketingForms.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\TicketingForms.cs",
+              "RelativeDocumentMoniker": "Forms\\TicketingForms.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem-main\\Forms\\TicketingForms.cs [Design]",
+              "RelativeToolTip": "..\\MetromanagementSystem-main\\Forms\\TicketingForms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:34:13.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "Forms\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:37:54.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Data\\DataStore.cs",
+              "RelativeDocumentMoniker": "Data\\DataStore.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Data\\DataStore.cs",
+              "RelativeToolTip": "Data\\DataStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:40:04.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:34:34.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:34:38.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StationService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Services\\StationService.cs",
+              "RelativeDocumentMoniker": "Services\\StationService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Services\\StationService.cs",
+              "RelativeToolTip": "Services\\StationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:34:44.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "Services\\TicketService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Services\\TicketService.cs",
+              "RelativeToolTip": "Services\\TicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:34:49.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Models\\Route.cs",
+              "RelativeDocumentMoniker": "Models\\Route.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Models\\Route.cs",
+              "RelativeToolTip": "Models\\Route.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:34:25.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shift.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Models\\Shift.cs",
+              "RelativeDocumentMoniker": "Models\\Shift.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Models\\Shift.cs",
+              "RelativeToolTip": "Models\\Shift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:34:27.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Models\\Line.cs",
+              "RelativeDocumentMoniker": "Models\\Line.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Models\\Line.cs",
+              "RelativeToolTip": "Models\\Line.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:34:23.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:34:20.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RouteForms.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\RouteForms.cs",
+              "RelativeDocumentMoniker": "Forms\\RouteForms.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem-main\\Forms\\RouteForms.cs [Design]",
+              "RelativeToolTip": "..\\MetromanagementSystem-main\\Forms\\RouteForms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:33:55.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeForms.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\EmployeeForms.cs",
+              "RelativeDocumentMoniker": "Forms\\EmployeeForms.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem-main\\Forms\\EmployeeForms.cs [Design]",
+              "RelativeToolTip": "..\\MetromanagementSystem-main\\Forms\\EmployeeForms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:32:53.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem-main\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\MetromanagementSystem-main\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T01:32:38.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeForms.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\Forms\\EmployeeForms.cs",
+              "RelativeDocumentMoniker": "Forms\\EmployeeForms.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\MetroManagementSystem-main\\MetroManagementSystem-main\\MetromanagementSystem-main\\Forms\\EmployeeForms.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\MetroManagementSystem-main\\MetroManagementSystem-main\\MetromanagementSystem-main\\Forms\\EmployeeForms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:20:15.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DATA_STORAGE.md",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\DATA_STORAGE.md",
+              "RelativeDocumentMoniker": "DATA_STORAGE.md",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\MetromanagementSystem_c#\\DATA_STORAGE.md",
+              "RelativeToolTip": "DATA_STORAGE.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-14T01:34:57.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
